@@ -104,3 +104,5 @@
 **Записи:** https://drive.google.com/drive/u/2/folders/1obLyvCAlzNtEoiSk_dacNIGa7LWwb_J9
 
 **ДЗ:** https://drive.google.com/drive/folders/18qxt1i8jZuXqt71n_q5DTNl_sRWndE2r
+
+**Прогресс по заданиям:** https://drive.google.com/file/d/1Xvkgp3iSUAre-2_OqaSJj1185cOdTuS2/view
