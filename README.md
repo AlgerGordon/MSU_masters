@@ -99,6 +99,8 @@
 
 **Трансляция:** https://us02web.zoom.us/j/82610138207?pwd=NzJPcmY5SGQwSWRtUldvdStYeGxjUT09
 
+                https://mai.moscow/display/KB2020
+
 **Материалы:** https://mai.moscow/pages/viewpage.action?pageId=27558292
 
 **Записи:** https://drive.google.com/drive/u/2/folders/1obLyvCAlzNtEoiSk_dacNIGa7LWwb_J9
