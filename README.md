@@ -101,7 +101,7 @@
 
 **Материалы:** https://mai.moscow/pages/viewpage.action?pageId=27558292 и https://mai.moscow/display/KB2020
 
-**Записи:** https://drive.google.com/drive/u/2/folders/1obLyvCAlzNtEoiSk_dacNIGa7LWwb_J9
+**Записи:** https://drive.google.com/drive/u/2/folders/
 
 **ДЗ:** https://drive.google.com/drive/folders/18qxt1i8jZuXqt71n_q5DTNl_sRWndE2r
 
