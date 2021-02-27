@@ -100,7 +100,7 @@
 
 **Трансляция:** https://us02web.zoom.us/j/87406257205?pwd=cjdHTU9lRmRvVHBlOTU1L2ppOExJQT09
 
-**Материалы:** https://mai.moscow/pages/viewpage.action?pageId=27558292 и https://mai.moscow/display/KB2020
+**Материалы:** https://mai.moscow/display/KB2020
 
 **Записи:** https://drive.google.com/drive/folders/1NAp4Il5WAFBoEnmYDoPb8zEpyLey9yW-?usp=sharing
 
