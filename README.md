@@ -82,16 +82,6 @@
 
 **Успеваемость:** https://docs.google.com/spreadsheets/d/1Vccfs7npbUw5a3Bz_vrJG_rguUu2UayNh4YPvDzTHJc/edit?usp=sharing
 
-* ### *Спецкурс*: Приложения эконометрики
-
-**Время:** 19:00 -- 20:30
-
-**Преподаватель:** Белянкина Татьяна Валерьевна
-
-**Трансляция:** https://us05web.zoom.us/j/9239997154?pwd=cnBIbEFyNHVCVlJYeHNzdlpldHVIQT09
-
-**Материалы:** Хммм, хороший вопрос
-
 # Суббота
 
 * ### Хранение и обработка больших объемов данных 
